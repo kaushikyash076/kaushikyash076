@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaushikyash076
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... c
-- 💞️ I’m looking to collaborate on ...HTml
+- 💞️ I’m looking to collaborate on ...HTml,CSS,JS
 - 📫 How to reach me ... kaushikyahs076@gmailcom , 7302977655
 
 <!---
